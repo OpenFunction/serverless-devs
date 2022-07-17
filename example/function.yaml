@@ -1,0 +1,31 @@
+apiVersion: core.openfunction.io/v1beta1
+kind: Function
+metadata:
+  name: knative-node-sample
+spec:
+  version: 'v2.0.0'
+  image: 'zhanghaili/ofn-sample-node:0.2.0-alpha'
+  # imageCredentials:
+  #   name: your-docker-registry-secret
+  # build:
+  #   builder: openfunction/builder-node:v2-16.15
+  #   env:
+  #     FUNC_NAME: tryKnative
+  #   srcRepo:
+  #     url: https://github.com/OpenFunction/samples.git
+  #     sourceSubPath: functions/async/mqtt-io-node
+  #     revision: main
+  # app port default to "8080"
+  # port: 8080
+  serving:
+    runtime: knative # default to knative
+    scaleOptions:
+      minReplicas: 0
+      maxReplicas: 2
+    template:
+      containers:
+        - name: function # DO NOT change this
+          imagePullPolicy: IfNotPresent
+    params:
+      NODE_ENV: dev
+      DEBUG: common:*,ofn:*

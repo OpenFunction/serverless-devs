@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "functions-framework --target=hello"
+  },
+  "main": "index.mjs",
+  "dependencies": {
+    "@openfunction/functions-framework": "^0.5.0"
+  }
+}
