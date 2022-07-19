@@ -11,18 +11,18 @@ Type: Component
 Name: ofn
 Provider:
   - 其它
-Version: 0.1.0
+Version: 0.1.1
 Description: Serverless Devs for OpenFunction
 HomePage: https://openfunction.dev/
 Tags: #标签详情
   - serverless
   - faas
-Category: 基础云服务
-Service: # 使用的服务
-  函数计算:  # 函数计算/容器服务/镜像服务/消息队列/工作流/CDN/对象存储/表格存储/MNS/日志服务/API网关/数据库/解析服务/云应用/其他
-    # Runtime: Python 3.6 如果服务是函数，还需要增加Runtime
-    Authorities: #权限描述
-      - 创建函数 # 所需要的权限
+Category: 开源项目
+# Service: # 使用的服务
+#   函数计算:  # 函数计算/容器服务/镜像服务/消息队列/工作流/CDN/对象存储/表格存储/MNS/日志服务/API网关/数据库/解析服务/云应用/其他
+#     # Runtime: Python 3.6 如果服务是函数，还需要增加Runtime
+#     Authorities: #权限描述
+#       - 创建函数 # 所需要的权限
 Commands: # 指令，格式为指令：指令描述，例如：
   deploy: 部署/删除函数
   build: 构建函数镜像
