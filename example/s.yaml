@@ -13,7 +13,7 @@ services:
       # envshow: ${vars.domain}
       src: ${path(src)}
       function: ${path(function.yaml)}
-      builder: openfuction/builder-node:v2-16.15
+      builder: openfunction/builder-node:v2-16.15
       env:
         NODE_ENV: production
         FUNC_NAME: hello
