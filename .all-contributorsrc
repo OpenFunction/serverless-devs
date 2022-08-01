@@ -31,7 +31,8 @@
       "contributions": [
         "code",
         "bug",
-        "maintenance"
+        "maintenance",
+        "example"
       ]
     }
   ]
