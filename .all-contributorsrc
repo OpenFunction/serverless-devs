@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "rsonghuster",
+      "name": "xiliu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10919599?v=4",
+      "profile": "https://github.com/rsonghuster",
+      "contributions": [
+        "bug"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "serverless-devs",
+  "projectOwner": "OpenFunction",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
