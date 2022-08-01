@@ -30,7 +30,8 @@
       "profile": "http://profile",
       "contributions": [
         "code",
-        "bug"
+        "bug",
+        "maintenance"
       ]
     }
   ]
