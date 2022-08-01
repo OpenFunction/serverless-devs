@@ -1,18 +1,9 @@
 {
   "files": [
-    "readme.md"
+    "README.md"
   ],
   "imageSize": 100,
-  "contributorsPerLine": 7,
-  "contributorsSortAlphabetically": false,
-  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
-  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
-  "types": {},
-  "skipCi": true,
-  "projectName": "serverless-devs",
-  "projectOwner": "OpenFunction",
-  "repoType": "github",
-  "repoHost": "https://github.com",
+  "commit": false,
   "contributors": [
     {
       "login": "anycodes",
@@ -29,11 +20,32 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/5129967?v=4",
       "profile": "http://profile",
       "contributions": [
-        "code",
-        "bug",
-        "maintenance",
-        "example"
+        "code"
+      ]
+    },
+    {
+      "login": "rsonghuster",
+      "name": "xiliu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10919599?v=4",
+      "profile": "https://github.com/rsonghuster",
+      "contributions": [
+        "bug"
+      ]
+    },
+    {
+      "login": "xsahxl",
+      "name": "xsahxl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21330840?v=4",
+      "profile": "https://github.com/xsahxl",
+      "contributions": [
+        "content"
       ]
     }
-  ]
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "serverless-devs",
+  "projectOwner": "OpenFunction",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
 }
