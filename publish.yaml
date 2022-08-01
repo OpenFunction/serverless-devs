@@ -11,7 +11,7 @@ Type: Component
 Name: ofn-test
 Provider:
   - 其它
-Version: dev
+Version: 0.0.3
 Description: Serverless Devs for OpenFunction
 HomePage: https://openfunction.dev/
 Tags: #标签详情
@@ -27,4 +27,3 @@ Commands: # 指令，格式为指令：指令描述，例如：
   deploy: 部署/删除函数
   build: 构建函数镜像
 Properties:
-
