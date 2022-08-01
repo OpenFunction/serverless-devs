@@ -1,5 +1,6 @@
 .s
 LICENSE
+example
 package-lock.json
 .prettierrc.js
 .prettierignore

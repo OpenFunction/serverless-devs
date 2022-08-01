@@ -8,10 +8,10 @@
 #   - [社区讨论 #439](https://github.com/Serverless-Devs/Serverless-Devs/discussions/439);
 
 Type: Component
-Name: ofn-test
+Name: ofn
 Provider:
   - 其它
-Version: 0.0.4
+Version: 0.1.2
 Description: Serverless Devs for OpenFunction
 HomePage: https://openfunction.dev/
 Tags: #标签详情
