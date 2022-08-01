@@ -1,6 +1,6 @@
 # OpenFunction Component for Serverless Devs
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 `ofn` is a [Serverless Devs](https://docs.serverless-devs.com/en) component developed for [OpenFunction](https://openfunction.dev).
@@ -69,6 +69,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/rsonghuster"><img src="https://avatars.githubusercontent.com/u/10919599?v=4?s=100" width="100px;" alt=""/><br /><sub><b>xiliu</b></sub></a><br /><a href="https://github.com/OpenFunction/serverless-devs/issues?q=author%3Arsonghuster" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/xsahxl"><img src="https://avatars.githubusercontent.com/u/21330840?v=4?s=100" width="100px;" alt=""/><br /><sub><b>xsahxl</b></sub></a><br /><a href="#content-xsahxl" title="Content">🖋</a></td>
   </tr>
 </table>
 
