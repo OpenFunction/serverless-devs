@@ -6,6 +6,24 @@
   "commit": false,
   "contributors": [
     {
+      "login": "anycodes",
+      "name": "Anycodes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21079031?v=4",
+      "profile": "https://www.anycodes.cn",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "heimanba",
+      "name": "heimanba",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5129967?v=4",
+      "profile": "http://profile",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
       "login": "rsonghuster",
       "name": "xiliu",
       "avatar_url": "https://avatars.githubusercontent.com/u/10919599?v=4",
