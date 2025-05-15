@@ -4,6 +4,6 @@
   },
   "main": "index.mjs",
   "dependencies": {
-    "@openfunction/functions-framework": "^0.5.0"
+    "@openfunction/functions-framework": "^0.6.1"
   }
 }
