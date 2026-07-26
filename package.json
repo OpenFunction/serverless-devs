@@ -26,7 +26,7 @@
     "build": "esbuild src/index.ts --bundle --log-level=error --minify --platform=node --format=cjs --target=node10.4 --external:@serverless-devs/core --external:@kubernetes/client-node --outfile=dist/index.js"
   },
   "dependencies": {
-    "@kubernetes/client-node": "^0.17.0"
+    "@kubernetes/client-node": "^0.21.0"
   },
   "devDependencies": {
     "@serverless-devs/core": "latest",
